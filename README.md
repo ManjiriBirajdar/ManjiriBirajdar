@@ -2,13 +2,16 @@
 
 Welcome to my profile!
 
-<img align="right" height="250" width="500" src="https://github.com/ManjiriBirajdar/ManjiriBirajdar/blob/main/giphy-backdrop.gif"/>
+<img align="right" height="250" width="1000" src="https://github.com/ManjiriBirajdar/ManjiriBirajdar/blob/c4c474485b0002031325714a6a6c5527bdbaa3b6/Final%20LinkedIn%20Banner%20(1584%20%C3%97%20396%20px).png"/>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=manjiribirajdar.manjiribirajdar)
 
-Professionally :
+I am Professionally :
 - :woman_student: Pursuing M.Sc. in Distributed Software Systems (DSS) at <a href="https://www.informatik.tu-darmstadt.de/fb20/profil/index.en.jsp"> Technische Universität Darmstadt </a>, Germany
-- :woman_technologist: Into Software Development for more than 7+ years
+-  Web3 and Blockchain Learner
+-  Passionate Researcher with Hands-on Mentality
+-  Strong in "Concept to Prototype" Project Development
+- :woman_technologist: 7+ years of experience as a Software Engineer + Werkstudent
 - :woman_mechanic: Passionate about learning cutting-edge technology and :construction_worker_woman: building prototypes
 
  As Volunteer :
@@ -31,8 +34,6 @@ Here are a few things I've picked up along my learning journey.
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-
 
 <h3> Platforms and Technologies </h3> 
 
