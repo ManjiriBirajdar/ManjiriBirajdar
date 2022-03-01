@@ -6,18 +6,20 @@ Welcome to my profile!
 
 ![](https://visitor-badge.glitch.me/badge?page_id=manjiribirajdar.manjiribirajdar)
 
-Professional Summary :
-- :woman_student: Pursuing M.Sc. in Distributed Software Systems (DSS) at <a href="https://www.informatik.tu-darmstadt.de/fb20/profil/index.en.jsp"> Technische Universität Darmstadt </a>, Germany
--  Web3 and Blockchain Learner
--  Passionate Researcher with Hands-on Mentality
--  Strong in "Concept to Prototype" Project Development
-- :woman_technologist: 7+ years of experience as a Software Engineer + Werkstudent
-- :woman_mechanic: Passionate about learning cutting-edge technology and :construction_worker_woman: building prototypes
+✨ Professional Summary :
 
-  Volunteer Work/Community Involvement :
- - :woman: Highly motivated to empower women in Tech and support the sustainable development of our society
- - :bowing_woman: EVANGELIST at <a href="https://www.womenwhocode.com/blockchain/about"> Women Who code Blockchain </a> (Globally) 
- - :woman_teacher: Vice-chair of <a href="https://www.linkedin.com/company/ieee-wie-germany"> IEEE Women in Engineering (WIE) Germany Section </a>
+  - :woman_student: Pursuing M.Sc. in Distributed Software Systems (DSS) at <a href="https://www.informatik.tu-darmstadt.de/fb20/profil/index.en.jsp"> Technische Universität Darmstadt </a>, Germany
+  -  Web3 and Blockchain Learner
+  -  Passionate Researcher with Hands-on Mentality
+  -  Strong in "Concept to Prototype" Project Development
+  - :woman_technologist: 7+ years of experience as a Software Engineer + Werkstudent
+  - :woman_mechanic: Passionate about learning cutting-edge technology and :construction_worker_woman: building prototypes
+
+✨ Volunteer Work/Community Involvement :
+  
+   - :woman: Highly motivated to empower women in Tech and support the sustainable development of our society
+   - :bowing_woman: EVANGELIST at <a href="https://www.womenwhocode.com/blockchain/about"> Women Who code Blockchain </a> (Globally) 
+   - :woman_teacher: Vice-chair of <a href="https://www.linkedin.com/company/ieee-wie-germany"> IEEE Women in Engineering (WIE) Germany Section </a>
  
 <br />
 
