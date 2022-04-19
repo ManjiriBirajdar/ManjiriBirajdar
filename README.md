@@ -56,11 +56,13 @@ Here are a few things I've picked up along my learning journey.
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
 <br />
-<h2> :woman_technologist: Learning right now :space_invader: </h2>
+<h2> :woman_technologist: Learning :space_invader: </h2>
 
+![Solidity](https://img.shields.io/badge/-solidity-000?&logo=solidity)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+
 
 <br />
 <h2> 📝 Research Projects </h2>
@@ -76,5 +78,3 @@ Thanks for visiting!
 or write me on [e-mail](mailto:manjiri_birajdar@outlook.com)
 
 <br />
-
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
