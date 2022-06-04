@@ -1,4 +1,4 @@
-<h1> Hi I'm Manjiri <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px"> </h1>
+<h1> Hi <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="5px" height="40"> I'm Manjiri !</h1>
 
 Welcome to my profile!
 
