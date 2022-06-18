@@ -17,8 +17,7 @@ Welcome to my profile!
 
 ✨ Volunteer Work/Community Involvement :
   
-   - :woman: Highly motivated to empower women in Tech and support the sustainable development of our society
-   - :bowing_woman: EVANGELIST at <a href="https://www.womenwhocode.com/blockchain/about"> Women Who code Blockchain </a> (Globally) 
+   - :bowing_woman: Lead at <a href="https://www.womenwhocode.com/blockchain/about"> Women Who code Blockchain </a> (Globally) 
    - :woman_teacher: Vice-chair of <a href="https://www.linkedin.com/company/ieee-wie-germany"> IEEE Women in Engineering (WIE) Germany Section </a>
  
 <br />
