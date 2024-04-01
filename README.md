@@ -8,12 +8,16 @@ Welcome to my profile!
 
 ✨ Professional Summary :
 
+:woman_technologist: Results-oriented Full Stack Developer with 5+ years of professional experience in applied research and software development, specializing in modern web applications development in an agile environment within diverse teams. 
+
+Strengths include: 
+  - Proficient in a wide range of programming languages, including JavaScript. and Typescript.
+  - Well-versed in modern web frameworks such as Node.js, Angular, etc.
+  - :woman_technologist: Passionate about learning cutting-edge technology and implementing research prototypes.
+  - Passionate Researcher with Hands-on Mentality
+  - Strong in "Concept to Prototype" Project Development
   - :woman_student: Pursuing M.Sc. in Distributed Software Systems (DSS) at <a href="https://www.informatik.tu-darmstadt.de/fb20/profil/index.en.jsp"> Technische Universität Darmstadt </a>, Germany
-  -  Web3 and Blockchain Learner
-  -  Passionate Researcher with Hands-on Mentality
-  -  Strong in "Concept to Prototype" Project Development
-  - :woman_technologist: 7+ years of experience as a Software Engineer + Werkstudent
-  - :woman_mechanic: Passionate about learning cutting-edge technology and :construction_worker_woman: building prototypes
+  - Web3 and Blockchain Learner
 
 ✨ Volunteer Work/Community Involvement :
   
@@ -72,7 +76,7 @@ Thanks for visiting!
 <br />
 <h2> 📫 Get in touch </h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manjiri-b-868a644/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manjiribirajdar/)
 
 or write me on [e-mail](mailto:manjiri_birajdar@outlook.com)
 
