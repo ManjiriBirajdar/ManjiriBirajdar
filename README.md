@@ -1,30 +1,34 @@
-<h1> Hi <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="5px" height="40"> I'm Manjiri !</h1>
+<h1> Hi I'm Manjiri !</h1>
 
 Welcome to my profile!
 
 <img align="right" height="250" width="1000" src="https://github.com/ManjiriBirajdar/ManjiriBirajdar/blob/c4c474485b0002031325714a6a6c5527bdbaa3b6/Final%20LinkedIn%20Banner%20(1584%20%C3%97%20396%20px).png"/>
 
-![](https://visitor-badge.glitch.me/badge?page_id=manjiribirajdar.manjiribirajdar)
+🎯 Professional Objective:
 
-✨ Professional Summary :
+Seeking an opportunity with a forward-thinking tech company that prioritizes meaningful impact. With my expertise in software development and passion for innovation, I aim to contribute to the advancement of the data-driven era and make a significant difference in the industry.
 
-:woman_technologist: Results-oriented Full Stack Developer with 5+ years of professional experience in applied research and software development, specializing in modern web applications development in an agile environment within diverse teams. 
+💡 Profile Summary:
 
-Strengths include: 
-  - Proficient in a wide range of programming languages, including JavaScript. and Typescript.
-  - Well-versed in modern web frameworks such as Node.js, Angular, etc.
-  - :woman_technologist: Passionate about learning cutting-edge technology and implementing research prototypes.
-  - Passionate Researcher with Hands-on Mentality
-  - Strong in "Concept to Prototype" Project Development
-  - :woman_student: Pursuing M.Sc. in Distributed Software Systems (DSS) at <a href="https://www.informatik.tu-darmstadt.de/fb20/profil/index.en.jsp"> Technische Universität Darmstadt </a>, Germany
-  - Web3 and Blockchain Learner
-
-✨ Volunteer Work/Community Involvement :
-  
-   - :bowing_woman: Lead at <a href="https://www.womenwhocode.com/blockchain/about"> Women Who code Blockchain </a> (Globally) 
-   - :woman_teacher: Vice-chair of <a href="https://www.linkedin.com/company/ieee-wie-germany"> IEEE Women in Engineering (WIE) Germany Section </a>
+Results-oriented software developer with 5+ years of professional experience, specializing in modern web applications in an agile environment within diverse teams. Strengths include: 
  
-<br />
+     ✅ Proficient in a wide range of programming languages, including JavaScript. Typescript, Python and Java.
+     
+     ✅ Well-versed in modern web frameworks such as Node.js, Angular, etc.
+     
+     ✅ Proficient background in RESTful API development, and cloud technologies like AWS.
+     
+     ✅ Proactive, independent way of working and openness to new technologies and methods
+     
+     ✅ Passionate about building useful and user-friendly web apps
+     
+     ✅ Passionate Researcher with Hands-on Mentality
+     
+     ✅ Strong in "Concept to Prototype" Project Development
+     
+     ✅ Soon to graduate M.Sc. in Distributed Software Systems (DSS) at <a href="https://www.informatik.tu-darmstadt.de/fb20/profil/index.en.jsp"> Technische Universität Darmstadt </a>, Germany
+     
+     ✅ Web3 and Blockchain Learner
 
 <h2> ⚡ Tech Stack </h2>
 
@@ -68,8 +72,6 @@ Here are a few things I've picked up along my learning journey.
 
 
 <br />
-<h2> 📝 Research Projects </h2>
-
 
 Thanks for visiting!
 
